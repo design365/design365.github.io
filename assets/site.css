@@ -1,0 +1,46 @@
+.siteMainWrapper {
+    position: relative;
+    width: 100%;
+    background: #fff;
+    border-bottom: 1px solid #cac6c6;
+    padding: 15px 0;
+    font-size: 14px;
+    word-spacing: .5px;
+}
+.siteMainWrapper h1 {
+    font-size: 17px;
+    color: #525050;
+    margin-bottom: 5px;
+    padding: 10px 25px;
+    display: block;
+    background: #e3e3e3;
+}
+.table-content {
+    background: #e3e3e3;
+    padding: 10px 0;
+    padding-bottom: 15px;
+    margin: 10px 0;
+}
+.siteMainWrapper p {
+    padding: 5px 25px;
+}
+.table-content h2 {
+    color: #333;
+}
+.siteMainWrapper h2 {
+    padding: 5px 25px;
+    font-size: 15px;
+    color: #1385d7;
+}
+.siteMainWrapper h3 {
+    border-bottom: 1px solid #ddd;
+    font-weight: 700;
+    color: #1f37ff;
+}
+.siteMainWrapper img {
+    display: block;
+    margin: 0 30px;
+    max-width: 100%;
+    -webkit-box-shadow: 0 0 5px #ddd;
+    box-shadow: 0 0 5px #ddd;
+}
